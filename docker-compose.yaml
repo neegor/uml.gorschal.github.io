@@ -7,6 +7,4 @@ services:
     container_name: algorithms-list
     volumes:
       - .:/opt/algorithms-list/app/
-    ports:
-      - 8000:8000
     tty: true
