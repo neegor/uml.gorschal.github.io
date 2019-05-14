@@ -1,4 +1,4 @@
-FROM        python:3.7-alpine
+FROM        python:3.7
 
 ENV         LANG C.UTF-8
 ADD         . /opt/algorithms-list/app
