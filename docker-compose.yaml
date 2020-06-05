@@ -1,10 +1,10 @@
-version: "3"
+version: "3.4"
 services:
-  algorithms-list:
+  uml-book:
     build:
       context: .
       dockerfile: ./Dockerfile
-    container_name: algorithms-list
+    container_name: uml-book
     volumes:
-      - .:/opt/algorithms-list/app/
+      - .:/home/app/uml-book/
     tty: true
