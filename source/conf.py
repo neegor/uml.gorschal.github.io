@@ -21,7 +21,7 @@ html_theme = 'alabaster'
 
 # -- Project information -----------------------------------------------------
 
-project = 'algorithms-list'
+project = 'unl-book'
 copyright = '2019, gorschal'
 author = 'gorschal'
 
