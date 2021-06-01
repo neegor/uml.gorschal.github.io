@@ -1,6 +1,6 @@
 # Core
 sphinx==3.0.3 
-urllib3==1.25.9
+urllib3==1.26.5
 alabaster==0.7.12
 
 # Tests
